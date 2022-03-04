@@ -11,7 +11,7 @@ This repository contains analysis scripts and data for the study titled "".
 
 This repository contains two folders:
 
-1. **Code** :
+1. **CODE** :
   This foldder contains one shell scipt file with the code followed for the HMP Unified Metabolic Analysis Network (HUMAnN version 3.0.0, http://huttenhower.sph.harvard.edu/humann) pipeline and five essential R scripts for our analysis.
   
   - Humann_docker.sh
@@ -21,7 +21,7 @@ This repository contains two folders:
   - Stats-VirulenceFactorsAssociations.R
   - EdgeR-DAG.R
 
-2. **Datasets** : 
+2. **DATASETS** : 
   This folder contians datasets resulting from the collection of participants metadata, HUMAnN 3.0 pipeline followed for annotation of high quality microbial sequences using for alignment ChocoPhlAn and UniRef90 full databases, and virulence factor screening using ABRicate v1.0.1 (https://github.com/tseemann/abricate)
   
   - MetaData.tsv
