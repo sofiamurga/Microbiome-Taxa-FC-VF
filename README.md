@@ -1,8 +1,8 @@
-# Virulence factors of gut microbiome are associated with BMI and metabolic blood parameters in children with obesity
+# Virulence Factors of Gut Microbiome are Associated with BMI and Metabolic Blood Parameters in Children with Obesity
 
 ## REPOSITORY DESCRIPTION
 
-This repository contains analysis scripts and data for the study titled "Virulence factors of gut microbiota are associated with BMI and biochemical blood markers in children with obesity".
+This repository contains analysis scripts and data for the study titled "Virulence Factors of Gut Microbiome are Associated with BMI and Metabolic Blood Parameters in Children with Obesity".
 
 ### CONTENTS
 
